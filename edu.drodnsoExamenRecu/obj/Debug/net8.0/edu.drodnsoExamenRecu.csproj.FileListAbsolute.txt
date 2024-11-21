@@ -1,0 +1,15 @@
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\bin\Debug\net8.0\edu.drodnsoExamenRecu.exe
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\bin\Debug\net8.0\edu.drodnsoExamenRecu.deps.json
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\bin\Debug\net8.0\edu.drodnsoExamenRecu.runtimeconfig.json
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\bin\Debug\net8.0\edu.drodnsoExamenRecu.dll
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\bin\Debug\net8.0\edu.drodnsoExamenRecu.pdb
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.AssemblyInfoInputs.cache
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.AssemblyInfo.cs
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.csproj.CoreCompileInputs.cache
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.sourcelink.json
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.dll
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\refint\edu.drodnsoExamenRecu.dll
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.pdb
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\edu.drodnsoExamenRecu.genruntimeconfig.cache
+C:\Users\csi22\OneDrive\Escritorio\desarrollo web servidor\edu.drodnsoExamenRecu\edu.drodnsoExamenRecu\obj\Debug\net8.0\ref\edu.drodnsoExamenRecu.dll
